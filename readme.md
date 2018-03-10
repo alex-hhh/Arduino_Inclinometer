@@ -10,6 +10,8 @@ installed in any position inside the vehicle, on startup it will determine its
 orientation automatically.
 
 For more details, see
-[https://alex-hhh.github.io/2017/12/arduino-inclinometer.html](https://alex-hhh.github.io/2017/12/arduino-inclinometer.html)
 
+* [https://alex-hhh.github.io/2017/12/arduino-inclinometer.html](https://alex-hhh.github.io/2017/12/arduino-inclinometer.html)
+
+* [https://alex-hhh.github.io/2018/03/arduino-inclinometer-improvements.html](https://alex-hhh.github.io/2018/03/arduino-inclinometer-improvements.html)
 
